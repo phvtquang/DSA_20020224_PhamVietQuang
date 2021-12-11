@@ -1,0 +1,14 @@
+2
+- không thể dịch được, trình dịch báo lỗi
+3
+- trình dịch báo lỗi
+4
+- chạy chương trình java Hi
+- Chạy chương trình java Hi với tham số truyền vào là @!..
+- chạy chương trình java Hi với tham số truyền vào là 1234
+- lỗi 
+- chạy ctr java Hi tham số truyền vào là Bob
+- chạy ctr java Hi tham số truyền vào là Alice Bob
+7
+- Thiếu biến String[] trong khai báo hàm main()
+- Vì JVM luôn tìm kiếm hàm main với tham số truyền vào  là mảng kiểu String , mà trong chương trình này không có nên bị lỗi
