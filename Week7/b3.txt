@@ -1,6 +1,0 @@
-Trong hai thuật toán sắp xếp Chọn (Insertion sort) và Chèn/Xen vào (Selection Sort),
-dữ liệu đầu vào có nên lưu trong LinkedList (danh sách liên kết) không ?
-Vì sao ?
-
-Trả lời : Việc lưu vào danh sách liên kết sẽ giúp giảm thiểu được bước dịch các phần tử lúc Chèn trong thuật toán Insertion sort.
-Nên câu trả lời là có

@@ -1,7 +1,0 @@
-		1Kints  2Kints  4Kints 8Kints
-InsertionSort 	24	32	100	348
-MergeSort	0	6	16	19
-Quick		6	10	15	22
-Nhận xét : InsertionSort chậm hơn nhiều,
-MergeSort và QuickSort có thời gian chạy na ná nhau , sự khác biệt về thời gian chạy giữa các tệp đầu vào cũng không lớn như InsertionSort
- 
